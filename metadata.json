@@ -1,0 +1,5 @@
+{
+  "name": "AI Hair Stylist",
+  "description": "An application that uses AI to let you try on different haircuts, get them rated, and receive personalized advice on styling and products.",
+  "requestFramePermissions": []
+}
